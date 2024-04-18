@@ -11,4 +11,4 @@
 |Hybrid|Renamed projects, claimed they were his.
 |𝔾𝕠𝕠𝕗𝕪 𝔾𝕠𝕠𝕓𝕖𝕣|Claims to know C#, went on to send a script, which he sent GliderHoldable[] array3 = UnityEngine.Object.FindObjectsOfType<GliderHoldable>(); notice how it says "array3"?
 |pinkyiscool|Everything is made from asteroid's gorilla tag copy making server's assets :)
-|mukman|Again made a skidded game using fantas games
+|mukman|Again made a skidded game using fantas assets
