@@ -4,7 +4,7 @@
 | Name | Reason |
 | ---- | ------ |
 
-|Lemming (captaincrunch)|Renamed stuff and claimed it as his own (also uses gpt)
+|Lemming (captaincrunch)|Renamed stuff and claimed it as his own (also uses gpt)|
 |crimson|Uses gpt and steals scripts without credit
 |firegt|He cant even fix keystore and he saying he can dox
 |NotLucy|ubershader is made by nox and him
