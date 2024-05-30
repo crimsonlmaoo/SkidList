@@ -3,7 +3,7 @@
 
 | Name | Reason |
 | ---- | ------ |
-|Tozic|Renaming scripts entirely, even to the point of adding watermarks to them. Also just annoying in general.
+
 |Lemming (captaincrunch)|Renamed stuff and claimed it as his own (also uses gpt)
 |crimson|Uses gpt and steals scripts without credit
 |firegt|He cant even fix keystore and he saying he can dox
