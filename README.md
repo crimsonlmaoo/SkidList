@@ -1,14 +1,18 @@
 # Clone Skid List
 
+A list of individuals who have been caught skidding (stealing and claiming others' work as their own) in the community.
 
-| Name | Reason |
-| ---- | ------ |
+## List of Skids:
 
-|Lemming (captaincrunch)|Renamed stuff and claimed it as his own (also uses gpt)|
-|crimson|Uses gpt and steals scripts without credit
-|firegt|He cant even fix keystore and he saying he can dox
-|NotLucy|ubershader is made by nox and him
-|Hybrid|Renamed projects, claimed they were his.
-|𝔾𝕠𝕠𝕗𝕪 𝔾𝕠𝕠𝕓𝕖𝕣|Claims to know C#, went on to send a script, which he sent GliderHoldable[] array3 = UnityEngine.Object.FindObjectsOfType<GliderHoldable>(); notice how it says "array3"?
-|pinkyiscool|Everything is made from asteroid's gorilla tag copy making server's assets :)
-|mukman|Again made a skidded game using fantas assets
+- **Lemming (captaincrunch)**: Renamed assets and claimed them as his own (also uses GPT).
+- **Crimson**: Uses GPT and steals scripts without credit.
+- **FireGT**: Can't even fix keystore but claims to be able to dox others.
+- **NotLucy**: Ubershader is made by Nox and him, but he takes credit for it.
+- **Hybrid**: Renamed projects and claimed them as his own.
+- **𝔾𝕠𝕠𝕗𝕪 𝔾𝕠𝕠𝕓𝕖𝕣**: Claims to know C#, but sent a script with a bad variable name (e.g., `GliderHoldable[] array3 = UnityEngine.Object.FindObjectsOfType<GliderHoldable>();`).
+- **PinkyIsCool**: Uses assets from Asteroid's Gorilla Tag copy without permission to make servers.
+- **Mukman**: Made a skidded game using stolen assets from Fantas.
+
+---
+
+This list is to keep the community aware of individuals who have been involved in these activities. Always respect other people's work and give credit where it is due.
